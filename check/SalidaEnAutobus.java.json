@@ -1,0 +1,29 @@
+{
+  "SalidaEnAutobus.java": {
+    "params_count": 3,
+    "outputs_count": 1,
+    "total_test_cases": 5,
+    "test_cases": [
+      {
+        "inputs": ["1", "1", "1"],
+        "expected_outputs": ["2"]
+      },
+      {
+        "inputs": ["2", "3", "50"],
+        "expected_outputs": ["250"]
+      },
+      {
+        "inputs": ["1", "2", "25"],
+        "expected_outputs": ["75"]
+      },
+      {
+        "inputs": ["0", "0", "50"],
+        "expected_outputs": ["0"]
+      },
+      {
+        "inputs": ["2", "0", "30"],
+        "expected_outputs": ["60"]
+      }
+    ]
+  }
+}
