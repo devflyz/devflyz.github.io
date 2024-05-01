@@ -1,0 +1,21 @@
+{
+  "RecordandoPalabras.java": {
+    "params_count": 2,
+    "outputs_count": -1,
+    "total_test_cases": 3,
+    "test_cases": [
+      {
+        "inputs": ["1", "hola"],
+        "expected_outputs": ["nueva"]
+      },
+      {
+        "inputs": ["3", "hola amigos mios"],
+        "expected_outputs": ["nueva", "nueva", "nueva"]
+      },
+      {
+        "inputs": ["3", "hola amigos hola"],
+        "expected_outputs": ["nueva", "nueva", "antigua"]
+      }
+    ]
+  }
+}
