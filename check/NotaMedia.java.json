@@ -9,11 +9,11 @@
         "expected_outputs": ["5.0"]
       },
       {
-        "inputs": ["5", "7,5", "10"],
+        "inputs": ["5", "7.5", "10"],
         "expected_outputs": ["7.5"]
       },
       {
-        "inputs": ["6,75", "7,25", "8,4"],
+        "inputs": ["6.75", "7.25", "8.4"],
         "expected_outputs": ["7.4666667"]
       }
     ]
