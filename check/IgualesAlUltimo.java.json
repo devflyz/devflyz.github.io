@@ -1,0 +1,30 @@
+{
+  "IgualesAlUltimo.java": {
+    "params_count": 1,
+    "outputs_count": 1,
+    "total_test_cases": 5,
+    "test_cases": [
+      {
+        "inputs": ["5", "23", "34", "23", "45", "23"],
+        "expected_outputs": ["2"]
+      },
+      {
+        "inputs": ["1", "23"],
+        "expected_outputs": ["0"]
+      },
+      {
+        "inputs": ["5", "12", "23", "34", "45", "56"],
+        "expected_outputs": ["0"]
+      },
+      {
+        "inputs": ["3", "100", "100", "100"],
+        "expected_outputs": ["2"]
+      },
+      {
+        "inputs": ["2", "23", "23"],
+        "expected_outputs": ["1"]
+      }
+    ]
+  }
+}
+
