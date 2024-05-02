@@ -1,13 +1,13 @@
 {
-  "AlturaMinima.java": false,
+  "AlturaMinima.java": true,
   "CalculoDeNotas.java": false,
-  "DivisiblesPor3.java": false,
+  "DivisiblesPor3.java": true,
   "HelloWorld.java": false,
-  "IgualesAlUltimo.java": false,
+  "IgualesAlUltimo.java": true,
   "LineaDePuntos.java": false,
   "NotaMedia.java": false,
-  "OXO.java": false,
-  "RecordandoPalabras.java": false,
-  "RepeatX.java": false,
-  "SalidaEnAutobus.java": false
+  "OXO.java": true,
+  "RecordandoPalabras.java": true,
+  "RepeatX.java": true,
+  "SalidaEnAutobus.java": true
 }
