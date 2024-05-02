@@ -3,5 +3,6 @@
     "NotaMedia.java",
     "RecordandoPalabras.java",
     "CalculoDeNotas.java",
-    "RepeatX.java"
+    "RepeatX.java",
+    "DivisiblesPor3.java"
 ]
