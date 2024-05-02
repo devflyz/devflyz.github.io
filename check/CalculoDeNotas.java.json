@@ -1,0 +1,57 @@
+{
+  "CalculoDeNotas.java": {
+    "params_count": 1,
+    "outputs_count": -1,
+    "total_test_cases": 12,
+    "test_cases": [
+      {
+        "inputs": ["4.5"],
+        "expected_outputs": ["INSUFICIENTE"]
+      },
+      {
+        "inputs": ["4.999"],
+        "expected_outputs": ["INSUFICIENTE"]
+      },
+      {
+        "inputs": ["5"],
+        "expected_outputs": ["SUFICIENTE"]
+      },
+      {
+        "inputs": ["5.999"],
+        "expected_outputs": ["SUFICIENTE"]
+      },
+      {
+        "inputs": ["6"],
+        "expected_outputs": ["BIEN"]
+      },
+      {
+        "inputs": ["6.999"],
+        "expected_outputs": ["BIEN"]
+      },
+      {
+        "inputs": ["7"],
+        "expected_outputs": ["NOTABLE"]
+      },
+      {
+        "inputs": ["8.499"],
+        "expected_outputs": ["NOTABLE"]
+      },
+      {
+        "inputs": ["8.5"],
+        "expected_outputs": ["EXCELENTE"]
+      },
+      {
+        "inputs": ["9.255"],
+        "expected_outputs": ["EXCELENTE"]
+      },
+      {
+        "inputs": ["9.999"],
+        "expected_outputs": ["EXCELENTE"]
+      },
+      {
+        "inputs": ["10"],
+        "expected_outputs": ["MATRICULA"]
+      }
+    ]
+  }
+}
