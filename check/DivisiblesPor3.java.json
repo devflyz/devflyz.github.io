@@ -1,0 +1,41 @@
+{
+  "DivisiblesPor3.java": {
+    "params_count": 2,
+    "outputs_count": 1,
+    "total_test_cases": 8,
+    "test_cases": [
+      {
+        "inputs": ["1", "7"],
+        "expected_outputs": ["3\n6"]
+      },
+      {
+        "inputs": ["5", "10"],
+        "expected_outputs": ["6\n9"]
+      },
+      {
+        "inputs": ["10", "22"],
+        "expected_outputs": ["12\n15\n18\n21"]
+      },
+      {
+        "inputs": ["3", "7"],
+        "expected_outputs": ["3\n6"]
+      },
+      {
+        "inputs": ["-1", "3"],
+        "expected_outputs": ["0\n3"]
+      },
+      {
+        "inputs": ["12", "45"],
+        "expected_outputs": ["12\n15\n18\n21\n24\n27\n30\n33\n36\n39\n42\n45"]
+      },
+      {
+        "inputs": ["99", "102"],
+        "expected_outputs": ["99\n102"]
+      },
+      {
+        "inputs": ["3", "7"],
+        "expected_outputs": ["3\n6"]
+      }
+    ]
+  }
+}
