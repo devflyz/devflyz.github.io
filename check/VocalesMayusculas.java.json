@@ -1,8 +1,8 @@
 {
   "VocalesMayusculas.java": {
-    params_count = 1
-    outputs_count = 1
-    total_cases = 4
+    params_count = 1,
+    outputs_count = 1,
+    total_cases = 4,
     test_cases = [
       {
         "inputs": ["hola mundo!\nEND"],
