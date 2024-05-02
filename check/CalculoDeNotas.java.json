@@ -1,7 +1,7 @@
 {
   "CalculoDeNotas.java": {
     "params_count": 1,
-    "outputs_count": -1,
+    "outputs_count": 1,
     "total_test_cases": 12,
     "test_cases": [
       {
