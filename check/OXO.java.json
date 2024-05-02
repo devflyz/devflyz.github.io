@@ -1,0 +1,54 @@
+{
+  "OXO.java": {
+    "params_count": 1,
+    "outputs_count": 1,
+    "total_test_cases": 11,
+    "test_cases": [
+      {
+        "inputs": "O--\n-O-\nXXX",
+        "expected_outputs": "X"
+      },
+      {
+        "inputs": "--X\nOOO\n-X-",
+        "expected_outputs": "O"
+      },
+      {
+        "inputs": "XXX\nOOX\nXOO",
+        "expected_outputs": "X"
+      },
+      {
+        "inputs": "O-X\n-XO\nXO-",
+        "expected_outputs": "X"
+      },
+      {
+        "inputs": "OXX\nXOX\nXOO",
+        "expected_outputs": "O"
+      },
+      {
+        "inputs": "XO-\nXO-\nX--",
+        "expected_outputs": "X"
+      },
+      {
+        "inputs": "XO-\nXO-\n-O-",
+        "expected_outputs": "O"
+      },
+      {
+        "inputs": "XXO\nXXO\nO-O",
+        "expected_outputs": "O"
+      },
+      {
+        "inputs": "OXO\nOXO\nXOX",
+        "expected_outputs": "-"
+      },
+      {
+        "inputs": "XXO\nOXX\nXOO",
+        "expected_outputs": "-"
+      },
+      {
+        "inputs": "OXO\nXOX\nXOX",
+        "expected_outputs": "-"
+      }
+    ]
+  }
+}
+
