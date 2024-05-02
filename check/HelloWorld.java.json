@@ -1,0 +1,14 @@
+{
+  "HelloWorld.java": {
+    "params_count": 0,
+    "outputs_count": 1,
+    "total_test_cases": 1,
+    "test_cases": [
+      {
+        "inputs": "",
+        "expected_outputs": "Hello World!"
+      }
+    ]
+  }
+}
+
