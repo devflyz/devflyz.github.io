@@ -14,5 +14,6 @@
     "VentaLibros.java",
     "OrganizarYFiltrar.java",
     "EliminarVocales.java",
-    "CalculadoraAcumulativa.java"
+    "CalculadoraAcumulativa.java",
+    "Lipograma.java"
 ]

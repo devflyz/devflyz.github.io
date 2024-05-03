@@ -1,0 +1,44 @@
+{
+  "Lipograma.java": {
+    "params_count": 2,
+    "outputs_count": 1,
+    "total_test_cases": 5,
+    "test_cases": [
+      {
+        "inputs": [
+          "Hello world!\nEND",
+          "e"
+        ],
+        "expected_outputs": "false"
+      },
+      {
+        "inputs": [
+          "Hello World!\nEND",
+          "a"
+        ],
+        "expected_outputs": "true"
+      },
+      {
+        "inputs": [
+          "Hello World!\nEND",
+          "u"
+        ],
+        "expected_outputs": "true"
+      },
+      {
+        "inputs": [
+          "Lorem ipsum \ndolor sit amet, \nconsectetur adipiscing elit\nEND",
+          "x"
+        ],
+        "expected_outputs": "true"
+      },
+      {
+        "inputs": [
+          "Lorem ipsum \ndolor sit amet, \nconsectetur adipiscing\nEND",
+          "g"
+        ],
+        "expected_outputs": "false"
+      }
+    ]
+  }
+}
