@@ -6,15 +6,15 @@
     "test_cases": [
       {
         "inputs": ["1", "Aitor Tilla", "5.0"],
-        "expected_outputs": ["Aitor Tilla: aprova"]
+        "expected_outputs": ["Aitor Tilla: aprueba"]
       },
       {
         "inputs": ["2", "Lola Mento", "4.9", "Jorge Nitales", "5.1"],
-        "expected_outputs": ["Lola Mento: suspèn", "Jorge Nitales: aprova"]
+        "expected_outputs": ["Lola Mento: suspende", "Jorge Nitales: aprueba"]
       },
       {
         "inputs": ["3", "Inés Queleto", "9.1", "Marta Tuada", "7.5", "Paco Jones", "3.1"],
-        "expected_outputs": ["Inés Queleto: aprova", "Marta Tuada: aprova", "Paco Jones: suspèn"]
+        "expected_outputs": ["Inés Queleto: aprueba", "Marta Tuada: aprueba", "Paco Jones: suspende"]
       }
     ]
   }
