@@ -6,19 +6,19 @@
     "test_cases": [
       {
         "inputs": ["964"],
-        "expected_outputs": ["19", "Divendres"]
+        "expected_outputs": ["19", "Viernes"]
       },
       {
         "inputs": ["268"],
-        "expected_outputs": ["16", "Diumenge"]
+        "expected_outputs": ["16", "Domingo"]
       },
       {
         "inputs": ["141"],
-        "expected_outputs": ["6", "Dissabte"]
+        "expected_outputs": ["6", "Sábado"]
       },
       {
         "inputs": ["144"],
-        "expected_outputs": ["9", "Diumenge"]
+        "expected_outputs": ["9", "Domingo"]
       }
     ]
   }
