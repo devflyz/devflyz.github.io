@@ -1,8 +1,14 @@
 [
-    "SalidaEnAutobus.java",
-    "NotaMedia.java",
-    "RecordandoPalabras.java",
+    "AlturaMinima.java",
     "CalculoDeNotas.java",
+    "DivisiblesPor3.java",
+    "HelloWorld.java",
+    "IgualesAlUltimo.java",
+    "LineaDePuntos.java",
+    "NotaMedia.java",
+    "OXO.java",
+    "RecordandoPalabras.java",
     "RepeatX.java",
-    "DivisiblesPor3.java"
+    "SalidaEnAutobus.java",
+    "VocalesMayusculas.java"
 ]

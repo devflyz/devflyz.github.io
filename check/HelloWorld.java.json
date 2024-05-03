@@ -6,9 +6,8 @@
     "test_cases": [
       {
         "inputs": "",
-        "expected_outputs": "Hello World!"
+        "expected_outputs": ["H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d", "!"]
       }
     ]
   }
 }
-
