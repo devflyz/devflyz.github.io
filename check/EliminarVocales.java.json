@@ -1,0 +1,22 @@
+{
+  "EliminarVocales.java": {
+    "params_count": 1,
+    "outputs_count": 1,
+    "total_test_cases": 3,
+    "test_cases": [
+      {
+        "inputs": ["hola mundo!\n"],
+        "expected_outputs": ["hl mnd!\n"]
+      },
+      {
+        "inputs": ["lalalA\n"],
+        "expected_outputs": ["lll\n"]
+      },
+      {
+        "inputs": ["xa, XA, xE, xI, xO, xu\n"],
+        "expected_outputs": ["x, X, x, x, x, x\n"]
+      }
+    ]
+  }
+}
+
