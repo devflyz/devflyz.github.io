@@ -12,5 +12,6 @@
     "SalidaEnAutobus.java",
     "VocalesMayusculas.java",
     "VentaLibros.java",
-    "OrganizarYFiltrar.java"
+    "OrganizarYFiltrar.java",
+    "EliminarVocales.java"
 ]
