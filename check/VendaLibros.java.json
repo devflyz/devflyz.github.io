@@ -1,0 +1,26 @@
+{
+  "VendaLibros.java": {
+    "params_count": 1,
+    "outputs_count": 2,
+    "total_test_cases": 4,
+    "test_cases": [
+      {
+        "inputs": ["964"],
+        "expected_outputs": ["19", "Divendres"]
+      },
+      {
+        "inputs": ["268"],
+        "expected_outputs": ["16", "Diumenge"]
+      },
+      {
+        "inputs": ["141"],
+        "expected_outputs": ["6", "Dissabte"]
+      },
+      {
+        "inputs": ["144"],
+        "expected_outputs": ["9", "Diumenge"]
+      }
+    ]
+  }
+}
+
