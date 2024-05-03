@@ -1,0 +1,26 @@
+{
+  "CalculadoraAcumulativa.java": {
+    "params_count": 1,
+    "outputs_count": 1,
+    "total_test_cases": 4,
+    "test_cases": [
+      {
+        "inputs": "+ 1\n- 2\n* 3\n/ 2\nEND\n",
+        "expected_outputs": "1.0\n-1.0\n-3.0\n-1.5\n"
+      },
+      {
+        "inputs": "* 1\n+ 0\n/ 2\n* 1000\nEND\n",
+        "expected_outputs": "0.0\n0.0\n0.0\n0.0\n"
+      },
+      {
+        "inputs": "- 1000\n/ 2\n* -1\n- 501.75\nEND\n",
+        "expected_outputs": "-1000.0\n-500.0\n500.0\n-1.75\n"
+      },
+      {
+        "inputs": "END\n",
+        "expected_outputs": "0.0\n"
+      }
+    ]
+  }
+}
+

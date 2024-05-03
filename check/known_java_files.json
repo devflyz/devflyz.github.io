@@ -13,5 +13,6 @@
     "VocalesMayusculas.java",
     "VentaLibros.java",
     "OrganizarYFiltrar.java",
-    "EliminarVocales.java"
+    "EliminarVocales.java",
+    "CalculadoraAcumulativa.java"
 ]
