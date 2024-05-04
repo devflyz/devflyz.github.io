@@ -16,5 +16,6 @@
     "EliminarVocales.java",
     "CalculadoraAcumulativa.java",
     "Lipograma.java",
-    "Saludo.java"
+    "Saludo.java",
+    "SepararPalabras.java"
 ]
