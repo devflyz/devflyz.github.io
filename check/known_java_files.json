@@ -15,5 +15,6 @@
     "OrganizarYFiltrar.java",
     "EliminarVocales.java",
     "CalculadoraAcumulativa.java",
-    "Lipograma.java"
+    "Lipograma.java",
+    "Saludo.java"
 ]
